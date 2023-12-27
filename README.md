@@ -1,1 +1,1 @@
-Searchbar uses Google
+this is terrible
