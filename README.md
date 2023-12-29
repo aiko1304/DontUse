@@ -1,1 +1,1 @@
-this is terrible
+This is no longer GitSearch
